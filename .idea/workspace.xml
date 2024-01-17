@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a57fcc-67f3-49c9-987a-e3e964b1fc46" name="Changes" comment="" />
+    <list default="true" id="66a57fcc-67f3-49c9-987a-e3e964b1fc46" name="Changes" comment="FactorialCommand class created.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/SparkCommandExecutor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2b66Gioqux89jSRkB5DAjGjjKJ8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +44,37 @@
       <option name="presentableId" value="Default" />
       <updated>1705523090147</updated>
     </task>
+    <task id="LOCAL-00001" summary="Command interface created.">
+      <created>1705523188213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705523188214</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FactorialCommand class created.">
+      <created>1705523346377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705523346377</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Command interface created." />
+    <MESSAGE value="FactorialCommand class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="FactorialCommand class created." />
   </component>
 </project>
